@@ -19,3 +19,11 @@ Run the following command in the repository root:
 
 ```bash
 docker compose up -d
+```
+
+Once both containers are running, open your browser and navigate to:
+```
+http://localhost:3000
+```
+
+This will open **Open WebUI**, which is connected to the **Ollama** backend.
