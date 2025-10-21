@@ -15,7 +15,7 @@ You’ll need **Docker** with **Docker Compose**.
 
 ## 2) Quick Start
 
-Run the following command in the repository root:
+Run the following command in the repository root after running the docker:
 
 ```bash
 docker compose up -d
